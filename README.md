@@ -1,2 +1,3 @@
 # Hello_world
-trial and error
+1st repository
+
